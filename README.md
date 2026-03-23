@@ -263,7 +263,7 @@ which you will submit to sakai as part of your lab submission.
 | NULL              |   Y       |    Y      |     Y     |
 | CHECK             |   Y       |    Y      |     Y     |
 | UNIQUE            |   Y       |    Y      |     Y     |
-| REFERENCES        |           |           |           |
+| REFERENCES        |   N       |    Y      |     N     |
 
 ### NUMERIC(10,2)
 
